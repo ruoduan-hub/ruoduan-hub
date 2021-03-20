@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, 👋
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=chad97
