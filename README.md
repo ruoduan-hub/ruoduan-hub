@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 ## Hi, 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chad97)](https://github.com/Chad97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chad97&layout=compact)](https://github.com/Chad97)
+
+
+![Ruoduan's GitHub info](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
