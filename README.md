@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ## Hi, 👋
 
-### Langs 
+### Into
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruoduan-hub&layout=compact)](https://github.com/ruoduan-hub)
-
-### Info
-![Ruoduan's GitHub info](https://github-readme-stats.vercel.app/api?username=ruoduan-hub&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+> **Standing on the shoulders of giants**
