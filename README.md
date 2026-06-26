@@ -6,7 +6,7 @@
 </picture>
 
 
-## Learn posts 📚
+## My Lab's RSS 📚
 <!-- BLOG-POST-LIST:START -->
 - [CryptoAdvisor AI — 纯前端 AI 加密投资分析工具，没有后端的 SPA 到底能做什么](https://www.ruoduan.cn/blog/cryptoadvisor-ai)
 - [Term Proxy — 告别手改 shell profile，用 Tauri 2 打造跨平台终端代理管理工具](https://www.ruoduan.cn/blog/term-proxy)
