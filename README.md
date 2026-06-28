@@ -8,9 +8,9 @@
 
 ## My Lab's RSS 📚
 <!-- BLOG-POST-LIST:START -->
+- [我开源了一个精致的 Next.js 博客模板：Skyplume](https://www.ruoduan.cn/blog/Skyplume-blog-template)
 - [Term Proxy — 告别手改 shell profile，用 Tauri 2 打造跨平台终端代理管理工具](https://www.ruoduan.cn/blog/term-proxy)
 - [CryptoAdvisor AI — 纯前端 AI 加密投资分析工具，没有后端的 SPA 到底能做什么](https://www.ruoduan.cn/blog/cryptoadvisor-ai)
 - [升级blog &amp;  Vibe Coding 随笔](https://www.ruoduan.cn/blog/UpgradeBlog)
 - [Volta 对每个项目的Node版本管理](https://www.ruoduan.cn/blog/volta)
-- [微信小程序WebView在IOS中回退刷新问题](https://www.ruoduan.cn/blog/miniProgramWebviewRefresh)
 <!-- BLOG-POST-LIST:END -->
